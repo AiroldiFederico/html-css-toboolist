@@ -5,15 +5,17 @@
     vertical-align: middle;
 }
 
-
+.margin-main {
+    margin-left: 5%;
+}
 
 
 
 /* ----------------------------------------------------- */
 
-
 header {
-    margin: 10px 15px;
+    padding: 10px 15px;
+    background-color: white;
 }
 
 h1 {
@@ -25,3 +27,54 @@ h1 {
 }
 
 /* ------------------------------------------------------- */
+
+body {
+    background-color: rgb(229, 229, 229);
+}
+
+/* -------------------------------------------------------- */
+
+nav{
+    background-color: white;
+    margin-top: 5%;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+#Button1{
+    background-color: #46acf1;
+    border-color: #46acf1;
+    border-style: solid;;
+    border-radius: 5px;
+    padding: 4px 8px;
+    color: white;
+}
+
+#Button2{
+    background-color: white;
+    border-color: #d7dadf;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 4px 8px;
+    color: #d7dadf;
+}
+
+/* ---------------------------------------------------------- */
+
+article{
+    
+}
+
+/* ---------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
