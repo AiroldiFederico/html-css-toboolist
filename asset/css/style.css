@@ -1,0 +1,27 @@
+/* preset */
+
+
+.align-middle {
+    vertical-align: middle;
+}
+
+
+
+
+
+/* ----------------------------------------------------- */
+
+
+header {
+    margin: 10px 15px;
+}
+
+h1 {
+    display: inline-block;
+}
+
+#logo {
+    vertical-align: -15px;
+}
+
+/* ------------------------------------------------------- */
